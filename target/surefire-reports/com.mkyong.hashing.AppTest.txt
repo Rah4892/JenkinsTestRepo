@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.mkyong.hashing.AppTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.032 sec <<< FAILURE!
-testPrime1(com.mkyong.hashing.AppTest)  Time elapsed: 0.016 sec  <<< FAILURE!
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.031 sec <<< FAILURE!
+testPrime1(com.mkyong.hashing.AppTest)  Time elapsed: 0.012 sec  <<< FAILURE!
 junit.framework.AssertionFailedError
 	at junit.framework.Assert.fail(Assert.java:47)
 	at junit.framework.Assert.assertTrue(Assert.java:20)

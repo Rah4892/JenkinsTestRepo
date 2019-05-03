@@ -38,7 +38,7 @@ public class AppTest
 
 	public void testPrime1()
 	{
-		boolean f1 = new App().isPrime(6);
+		boolean f1 = new App().isPrime(5);
 		assertTrue(f1);
 	}
 
